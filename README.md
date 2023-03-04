@@ -7,3 +7,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OnniKorpella&theme=dark)](https://github.com/OnniKorpella/github-readme-stats)
  -->
+[![codewars](https://www.codewars.com/users/OnniKorpella/badges/large)](https://www.codewars.com/users/OnniKorpella)   
